@@ -1,0 +1,10 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est 6AA5-8C40
+
+ R‚pertoire de C:\Users\User\Desktop\projet
+
+03/08/2019  10:44    <REP>          .
+03/08/2019  10:44    <REP>          ..
+03/08/2019  10:44                 0 test1.txt
+               1 fichier(s)                0 octets
+               2 R‚p(s)   7ÿ018ÿ045ÿ440 octets libres
